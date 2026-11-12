@@ -1,0 +1,18 @@
+# Lab output created while you work (do not commit)
+instructions-loaded.log
+*.log
+.claude/settings.local.json
+
+# Note: the demo .env in this template holds an invented value only
+# (DEMO_VALUE=not-a-secret) and is intentionally tracked.
+# Any other env files are ignored.
+.env.*
+!.env.example
+
+# Dependencies and OS/editor files
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

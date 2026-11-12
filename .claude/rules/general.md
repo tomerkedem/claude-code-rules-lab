@@ -1,0 +1,2 @@
+# General
+- Keep answers short.
